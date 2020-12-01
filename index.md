@@ -46,18 +46,6 @@ __Sun Yat-sen Univerisity, Guangzhou, Guangdong__
 ## Publications
 
 ## Database and tools 
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
