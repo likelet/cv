@@ -1,79 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Qi Zhao's Profiles
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Qi Zhao
+Binformatists, Associate Professor in Sun Yat-sen University Cancer Center 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="zhaoqi@sysucc.org.cn">zhaoqi@sysucc.org.cn</a>
+| <a href="https://www.researchgate.net/profile/Qi_Zhao11">My ResearchGate ID</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Associate Professor in Sun Yat-sen University Cancer Center.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2005-2009`
+__Shaanxi University of Science and Technology, Xi'an, Shaanxi__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- B.S.
 
-- Sizar
+`2011 - 2016`
+__Sun Yat-sen Univerisity, Guangzhou, Guangdong__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- PH.D.
+
+`2016 - Present`
+__Sun Yat-sen Univerisity, Guangzhou, Guangdong__
 
 - Fellow
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
+## Database and tools 
 __Royal Mint__, London
 
 - Warden
