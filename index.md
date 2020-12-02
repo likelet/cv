@@ -3,12 +3,16 @@ layout: cv
 title: Qi Zhao's Profiles
 ---
 # Qi Zhao
-Bionformatists, Associate Professor in Sun Yat-sen University Cancer Center 
+Cancer Bionformatists, Associate Professor in Sun Yat-sen University Cancer Center 
 
 <div id="webaddress">
 <a href="zhaoqi@sysucc.org.cn">zhaoqi@sysucc.org.cn</a>
-| <a href="https://www.researchgate.net/profile/Qi_Zhao11">My ResearchGate ID</a>
+| <a href="https://www.researchgate.net/profile/Qi_Zhao11">ResearchGate</a>
+| <a href="https://www.researchgate.net/profile/Qi_Zhao11">Github</a>
+| <a href="https://orcid.org/0000-0002-8683-6145">ORCID</a>
+| <a href="https://scholar.google.com/citations?user=j7LCthMAAAAJ&hl=en">Google Scholar</a>
 </div>
+
 
 
 ## Currently
@@ -51,11 +55,13 @@ __Sun Yat-sen Univerisity, Cancer Center, Guangzhou, Guangdong__
 
 ## Publications
 
-### First or conresponding author(including equally constribution authors)    
+### First or conresponding author
 
-Xie, Yubin, Xiaotong Luo, Huiqin Li, Qingxian Xu, Zhihao He, **Qi Zhao**(**Co-corresponding**), Zhixiang Zuo, and Jian Ren; autoRPA: A web server for constructing cancer staging models by recursive partitioning analysis; ***Computational and Structural Biotechnology Journal*** ; 2020; 10.1016/j.csbj.2020.10.038; ; PMID: NA
+__2020__    
 
-Zuo, Zhixiang#, Huanjing Hu#, Qingxian Xu, Xiaotong Luo, Di Peng, Kaiyu Zhu, **Qi Zhao**(**Co-corresponding**), Yubin Xie, Jian Ren; BBCancer: an expression atlas of blood-based biomarkers in the early diagnosis of cancers; ***Nucleic Acids Research***; 2020; 10.1093/nar/gkz942; 01/2020; 48(D1): D789-D796.; PMID: 31665503
+Xie, Yubin, Xiaotong Luo, Huiqin Li, Qingxian Xu, Zhihao He, **Qi Zhao**(**Co-corresponding**), Zhixiang Zuo, and Jian Ren; autoRPA: A web server for constructing cancer staging models by recursive partitioning analysis; ***Computational and Structural Biotechnology Journal*** ; 2020; 10.1016/j.csbj.2020.10.038; ; PMID: NA   
+
+Zuo, Zhixiang#, Huanjing Hu#, Qingxian Xu, Xiaotong Luo, Di Peng, Kaiyu Zhu, **Qi Zhao**(**Co-corresponding**), Yubin Xie, Jian Ren; BBCancer: an expression atlas of blood-based biomarkers in the early diagnosis of cancers; ***Nucleic Acids Research***; 2020; 10.1093/nar/gkz942; 01/2020; 48(D1): D789-D796.; PMID: 31665503 
 
 Teng-Jia Jiang#, Fang Wang#, Ying-Nan Wang#, Jia-Jia Hu, Pei-Rong Ding, Jun-Zhong Lin, Zhi-Zhong Pan, Gong Chen, Jian-Yong Shao, Rui-hua Xu, **Qi Zhao**(**Co-corresponding**), Feng Wang.; Germline mutational profile of Chinese patients under 70 years old with colorectal cancer.; ***Cancer Communications***; 2020; 10.1002/cac2.12093; 2020 Nov;40(11):620-632; PMID: 32914570
 
@@ -71,9 +77,11 @@ Huiyan Luo#,  **Qi Zhao**(Co-first) Wei Wei#, Lianghong Zheng#, Shaohua Yi#, Gen
 
 Miao Lei#, Jingjing Qi#,  **Qi Zhao**(Co-first) Qi-Nian Wu, Da-Liang Wei, Xiao-Li Wei, Jia Liu, Jun Chen, Zhaolei Zeng, Huaiqiang Ju, Huiyan Luo, Rui-hua Xu; Targeting the STING pathway in tumor-associated macrophages regulates innate immune sensing of gastric cancer cells; ***Theranostics***; 2020; 10.7150/thno.37745; 2020 Jan 1;10(2):498-515; PMID: 31903134
 
+__2019__
+
 Hao-Xiang Wu# , Zi-Xian Wang# ,  **Qi Zhao** , Dong-Liang Chen , Ming-Ming He , Lu-Ping Yang , Ying-Nan Wang , Ying Jin , Chao Ren , Hui-Yan Luo , Zhi-Qiang Wang , Feng Wang ; Tumor mutational and indel burden: a systematic pan-cancer evaluation as prognostic biomarkers; ***Annals of Translational Medicine***; 2019;  10.21037/atm.2019.10.116; 2019 Nov;7(22):640; PMID: 31930041
 
- **Qi Zhao**(Co-first) Yu Sun#, Zekun Liu#, Hongwan Zhang, Xingyang Li, Kaiyu Zhu, Ze-Xian Liu*, Jian Ren*, Zhixiang Zuo*.; CrossICC: Iterative consensus clustering of cross-platform gene expression data without adjusting batch effect.; ***Briefings in Bioinformatics***; 2019; 10.1093/bib/bbz116; 2020 Sep 25;21(5):1818-1824; PMID: 32978617
+**Qi Zhao**(Co-first) Yu Sun#, Zekun Liu#, Hongwan Zhang, Xingyang Li, Kaiyu Zhu, Ze-Xian Liu*, Jian Ren*, Zhixiang Zuo*.; CrossICC: Iterative consensus clustering of cross-platform gene expression data without adjusting batch effect.; ***Briefings in Bioinformatics***; 2019; 10.1093/bib/bbz116; 2020 Sep 25;21(5):1818-1824; PMID: 32978617
 
 Zekun Liu#, Kai Yu#, Jian Zheng#, Huan Lin#,  **Qi Zhao**(Co-first) Xiaolong Zhang, Weiyi Feng, Liyu Wang, Jianjun Xu, Dawei Xie, Zhi‐Xiang Zuo, Ze‐Xian Liu, Qichang Zheng; Dysregulation, functional implications, and prognostic ability of the circadian clock across cancers; ***Cancer Medicine***; 2019; 10.1002/cam4.2035; 02/2019;8(314-28); PMID: 30791227
 
@@ -81,17 +89,25 @@ Huai-Qiang Ju, **Qi Zhao**(Co-first) Feng Wang, Ping Lan, Zi-Xian Wang, Zhixiang
 
 Feng Wang, **Qi Zhao**(Co-first) Ying-Nan Wang, Ying Jin, Ming-Ming He, Zexian Liu, Rui-Hua Xu; Evaluation of POLE and POLD1 Mutations as Biomarkers for Immunotherapy Outcomes Across Multiple Cancer Types; ***JAMA oncology***; 2019; 10.1001/jamaoncol.2019.2963; 2019 Aug 15;5(10):1504–6; PMID: 31415061
 
+__2018__
+
 Feng Wang, Dong-Bing Liu,  **Qi Zhao**(Co-first) Gang Chen, Xin-Ming Liu, Ying-Nan Wang, Hong Su, Yan-Ru Qin, Yi-Fu He, Qing-Feng Zou, Yan-Hui Liu, You-En Lin, Ze-Xian Liu, Jin-Xin Bei, Rui-Hua Xu; The genomic landscape of small cell carcinoma of the esophagus; ***Cell Research***; 2018; 10.1038/s41422-018-0039-1; 05/2018;28(7); PMID: 29728688
 
- **Qi Zhao**, Yu Sun, Dawei Wang, Hongwan Zhang, Kai Yu, Jian Zheng, Zhixiang Zuo; LncPipe: A Nextflow-based pipeline for identification and analysis of long non-coding RNAs from RNA-Seq data; ***Journal of Genetics and Genomics***; 2018; 10.1016/j.jgg.2018.06.005; 07/2018;45(7); PMID: 30055874
+**Qi Zhao**, Yu Sun, Dawei Wang, Hongwan Zhang, Kai Yu, Jian Zheng, Zhixiang Zuo; LncPipe: A Nextflow-based pipeline for identification and analysis of long non-coding RNAs from RNA-Seq data; ***Journal of Genetics and Genomics***; 2018; 10.1016/j.jgg.2018.06.005; 07/2018;45(7); PMID: 30055874
 
 Kai Yu#, Qingfeng Zhang#, Zekun Liu#,  **Qi Zhao**(Co-first) Xiaolong Zhang, Yan Wang, Zi-Xian Wang, Ying Jin, Xiaoxing Li, Ze-Xian Liu, Rui-Hua Xu; qPhos: a database of protein phosphorylation dynamics in humans; ***Nucleic Acids Research***; 2018; 10.1093/nar/gky1052; 10/2018;47(Databaseissue); PMID: 30380102
 
+__2017__
+
 Yubin Xie, Xiaotong Luo, Zhihao He, Yueyuan Zheng, Zhixiang Zuo, **Qi Zhao**(**Co-corresponding**), Yanyan Miao, Jian Ren; VirusMap: A visualization database for the influenza A virus; ***Journal of Genetics and Genomics***; 2017; 10.1016/j.jgg.2017.04.002; 04/2017;44(5); PMID: 28529079
+
+__2014__
 
 **Qi Zhao**, Yubin Xie, Yueyuan Zheng, Shuai Jiang, Wenzhong Liu, Weiping Mu, Zexian Liu, Yong Zhao, Yu Xue, Jian Ren; GPS-SUMO: A tool for the prediction of sumoylation sites and SUMO-interaction motifs; ***Nucleic Acids Research***; 2014; 10.1093/nar/gku383; 05/2014;42(W1); PMID: 24880689
 
 ### Contribution Authors 
+
+__2020__    
 
 Qingfeng Zhang, Kai Yu, Shihua Li, Xiaolong Zhang, **Qi Zhao**(Co-first) Xia Zhao, Zekun Liu, Han Cheng, Ze-Xian Liu, Xiaoxing Li; gutMEGA: a database of the human gut MEtaGenome Atlas; ***Briefings in Bioinformatics***; 2020; 10.1093/bib/bbaa082; 2020 Jun 4;bbaa082; PMID: 32496513
 
@@ -111,6 +127,8 @@ Tian Tian, Zhan-Hong Chen , Zongheng Zheng, Yubo Liu,  **Qi Zhao**, Yuying Liu, 
 
 Pei-Shan Hu, Ting Li, Jin-Fei Lin, Miao-Zhen Qiu, De-Shen Wang, Ze-Xian Liu, Zhan-Hong Chen, Lu-Ping Yang, Xiao-Long Zhang,  **Qi Zhao**, Yan-Xing Chen, Yun-Xin Lu, Qi-Nian Wu, Heng-Ying Pu, Zhao-Lei Zeng, Dan Xie, Huai-Qiang Ju, Hui-Yan Luo & Rui-Hua Xu ; DR–SOX2 signaling promotes colorectal cancer stemness and malignancy in an acidic microenvironment; ***Signal Transduction and Targeted Therapy***; 2020; 10.1038/s41392-020-00230-7; 5, 183 (2020).; PMID: 32900990
 
+__2019__    
+
 Hao-Xiang Wu, Zi-Xian Wang,  **Qi Zhao**, Feng Wang, Rui-Hua Xu; Designing gene panels for tumor mutational burden estimation: the need to shift from ‘correlation’ to ‘accuracy’; ***Journal for ImmunoTherapy of Cancer***; 2019; 10.1186/s40425-019-0681-2; 12/2019;7(1); PMID: 31387639
 
 Hao-Xiang Wu, Yan-Xing Chen, Zi-Xian Wang,  **Qi Zhao**, Ming-Ming He, Ying-Nan Wang, Feng Wang & Rui-Hua Xu; Alteration in TET1 as potential biomarker for immune checkpoint blockade in multiple cancers; ***Journal for ImmunoTherapy of Cancer***; 2019; 10.1186/s40425-019-0737-3; 10.1186/s40425-019-0737-3; PMID: 31623662
@@ -122,6 +140,8 @@ Yun Wang , Jia-Huan Lu , Qi-Nian Wu , Ying Jin , De-Shen Wang , Yan-Xing Chen , 
 Jialiang Zhang, Ruihong Bai, Mei Li, Huilin Ye, Chen Wu, Chengfeng Wang, Shengping Li, Liping Tan, Dongmei Mai, Guolin Li, Ling Pan, Yanfen Zheng, Jiachun Su, Ying Ye, Zhiqiang Fu, Shangyou Zheng, Zhixiang Zuo, Zexian Liu,  **Qi Zhao**, Xu Che, Dan Xie, Weihua Jia, Mu-Sheng Zeng, Wen Tan, Rufu Chen, Rui-Hua Xu, Jian Zheng, Dongxin Lin; Excessive miR-25-3p maturation via N6-methyladenosine stimulated by cigarette smoke promotes pancreatic cancer progression; ***Nature Communications***; 2019; 10.1038/s41467-019-09712-x; 12/2019;10(1); PMID: 31015415
 
 Ying-Nan Wang, Yun-Xin Lu, Jie Liu, Ying Jin, Hui-Chang Bi,   **Qi Zhao**, Ze-Xian Liu, Ying-Qin Li, Jia-Jia Hu, Hui Sheng, Yi-Ming Jiang, Chao Zhang,  Feng Tian,  Yang Chen, Zhi-Zhong Pan, Gong, Zhao-Lei Zeng, Kai-Yan Liu, Marcia Ogasawara, Jin-Ping Yun, Huai-Qiang Ju, Jian-Xiong Feng, Dan Xie, Song Gao, Wei-Hua Jia,  Scott Kopetz, Rui-Hua Xu, Feng Wang; AMPKα1 confers survival advantage of colorectal cancer cells under metabolic stress by promoting redox balance through the regulation of glutathione reductase phosphorylation; ***Oncogene***; 2019; 10.1038/s41388-019-1004-2; 09/2019;; PMID: 31530934
+
+__2018__    
 
 Yun-Xin Lu, Huai-Qiang Ju, Ze-Xian Liu, Dong-Liang Chen, Yun Wang,  **Qi Zhao**, Qi-Nian Wu, Zhao-lei Zeng, Hai-Bo Qiu, Pei-Shan Hu, Zhi-Qiang Wang, Dong-Sheng Zhang, Feng Wang, Rui-Hua Xu; ME1 Regulates NADPH Homeostasis to Promote Gastric Cancer Growth and Metastasis; ***Cancer Research***; 2018; 10.1158/0008-5472.CAN-17-3155; 04/2018;78(8):1972-1985; PMID: 29654155
 
@@ -135,6 +155,8 @@ Ying-nan Wang, Zhao-lei Zeng, Jiahuan Lu, Yun Wang, Ze-xian Liu, Ming-ming He,  
 
 Dongmei Mai, Peirong Ding, Liping Tan, Jialiang Zhang, Zhizhong Pan, Ruihong Bai, Cong Li, Mei Li, Yifeng Zhou, Wen Tan, Zhixiang Zhou, Yexiong Li, Aiping Zhou, Ying Ye, Ling Pan, Yanfen Zheng, Jiachun Su, Zhixiang Zuo, Zexian Liu,  **Qi Zhao**, Xiaoxing Li, Xudong Huang, Wei Li, Siqi Wu, Weihua Jia, Shuangmei Zou, Chen Wu, Rui-hua Xu, Jian Zheng, Dongxin Lin; PIWI-interacting RNA-54265 is oncogenic and a potential therapeutic target in colorectal adenocarcinoma; ***Theranostics***; 2018; 10.7150/thno.28001; 10/2018;8(19):5213-5230; PMID: 30555542
 
+__2017__    
+
 Jinwen Feng, Chen Ding, Naiqi Qiu, Xiaotian Ni, Dongdong Zhan, Wanlin Liu, Xia Xia, Peng Li, Bingxin Lu,  **Qi Zhao**, Peng Nie, Lei Song, Quan Zhou, Mi Lai, Gaigai Guo, Weimin Zhu, Jian Ren, Tieliu Shi, Jun Qin; Firmiana: Towards a one-stop proteomic cloud platform for data processing and analysis; ***Nature Biotechnology***; 2017; 10.1038/nbt.3825; 05/2017;35(5-5):409-412; PMID: 28486446
 
 Rui-hua Xu, Wei Wei, Michal Krawczyk, Wenqiu Wang, Huiyan Luo, Ken Flagg, Shaohua Yi, William Shi, Qingli Quan, Kang Li, Lianghong Zheng, Heng Zhang, Bennett A. Caughey,  **Qi Zhao**, Jiayi Hou, Runze Zhang, Yanxin Xu, Huimin Cai, Gen Li, Rui Hou, Zheng Zhong, Danni Lin, Xin Fu, Jie Zhu, Yaou Duan, Meixing Yu, Binwu Ying, Wengeng Zhang, Juan Wang, Edward Zhang, Charlotte Zhang, Oulan Li, Rongping Guo, Hannah Carter, Jian-kang Zhu, Xiaoke Hao, Kang Zhang; Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma; ***Nature Materials***; 2017; 10.1038/nmat4997; 10/2017;16(11); PMID: 29035356
@@ -144,6 +166,8 @@ Guangyan Kan, Heng He,  **Qi Zhao**, Xiubo Li, Min Li, Huasheng Yang, Jong Kyong
 Zai-Shang Li, Chuang-Zhong Deng, Yun-Lin Ye, Kai Yao, Sheng-Jie Guo, Jie-Ping Chen, Yong-Hong Li, Zi-Ke Qin, Zhuo-Wei Liu, Bin Wang,  **Qi Zhao**, Peng Chen, Qi-Wu Mi, Xiao-Feng Chen, Hui Han, and Fang-Jian Zhou; More precise prediction in Chinese patients with penile squamous cell carcinoma: Protein kinase CK2α catalytic subunit (CK2α) as a poor prognosticator; ***Oncotarget***; 2017; 10.18632/oncotarget.17935; 05/2017;8(31); PMID: 28881666
 
 Qingbin Zhang, Li Chen, Shiman Cui, Yan Li,  **Qi Zhao**, Wei Cao, Shixiang Lai, Sanjun Yin, Zhixiang Zuo, Jian Ren; Expression and regulation of long noncoding RNAs during the osteogenic differentiation of periodontal ligament stem cells in the inflammatory microenvironment; ***Scientific Reports***; 2017; 10.1038/s41598-017-14451-4; 12/2017;7(1); PMID: 29070806
+
+__2016__    
 
 Hui-Yun Liu,  **Qi Zhao**, Tian-Peng Zhang, Yue Wu, Yun-Xia Xiong, Shi-Ke Wang, Yuan-Long Ge, Jin-Hui He, Peng Lv, Tian-Miao Ou, Jia-Heng Tan, Ding Li, Lian-Quan Gu, Jian Ren, Yong Zhao, Zhi-Shu Huang; Conformation Selective Antibody Enables Genome Profiling and Leads to Discovery of Parallel G-Quadruplex in Human Telomeres; ***Cell Chemical Biology***; 2016; 10.1016/j.chembiol.2016.08.013; 10/2016;23(10); PMID: 27693060
 
@@ -157,11 +181,15 @@ Yubin Xie, Yueyuan Zheng, Hongyu Li, Xiaotong Luo, Zhihao He, Shuo Cao, Yi Shi, 
 
 Haiying Liu, Qianqian Liu, Yuanlong Ge,  **Qi Zhao**, Xiaohui Zheng, Yong Zhao; HTERT promotes cell adhesion and migration independent of telomerase activity; ***Scientific Reports***; 2016; 10.1038/srep22886; 03/2016;6:22886; PMID: 26971878
 
+__2015__    
+
 Wenzhong Liu, Yubin Xie, Jiyong Ma, Xiaotong Luo, Peng Nie, Zhixiang Zuo, Urs Lahrmann,  **Qi Zhao**, Yueyuan Zheng, Yong Zhao, Yu Xue, Jian Ren; IBS: An illustrator for the presentation and visualization of biological sequences; ***Bioinformatics***; 2015; 10.1093/bioinformatics/btv362; 06/2015;31(20):3359-3361; PMID: 26069263
 
 Zai-Shang Li, Kai Yao, Yong-Hong Li, Jie-Ping Chen, Chuang-Zhong Deng,  **Qi Zhao**, Peng Chen, Bin Wang, Qi-Wu Mi, Zhuo-Wei Liu, Zi-Ke Qin, Hui Han, Fang-Jian Zhou; Clinical significance of preoperative C-reactive protein and squamous cell carcinoma antigen levels in penile squamous cell carcinoma patients; ***BJU International***; 2015; 10.1111/bju.13379; 11/2015;118(2); PMID: 26573952
 
 Chao Shi, Jian Yin, Zhe Liu, Jian-Xin Wu,  **Qi Zhao**, Jian Ren, Nan Yao; A systematic simulation of the effect of salicylic acid on sphingolipid metabolism; ***Frontiers in Plant Science***; 2015; 10.3389/fpls.2015.00186; 03/2015;6:186; PMID: 25859253
+
+__2014__    
 
 Zhe-Zhen Li, Feng Wang, Zi-Chen Zhang, Fang Wang,  **Qi Zhao**, Dong-Sheng Zhang, Feng-Hua Wang, Zhi-Qiang Wang, Hui-Yan Luo, Ming-Ming He, De-Shen Wang, Ying Jin, Chao Ren, Miao-Zhen Qiu, Jian Ren, Zhi-Zhong Pan, Yu-Hong Li, Jiao-Yong Shao, Rui-Hua Xu; Mutation profiling in Chinese patients with metastatic colorectal cancer and its correlation with clinicopathological features and anti-EGFR treatment response; ***Oncotarget***; 2014; 10.18632/oncotarget.8541; 11/2014;7(19); PMID: 27050078. 
 
@@ -178,10 +206,3 @@ Zhe-Zhen Li, Feng Wang, Zi-Chen Zhang, Fang Wang,  **Qi Zhao**, Dong-Sheng Zhang
 * [lassBag](https://github.com/likelet/lassoBag) - A lasso-based implementation of a CART frame for selecting markers from multiple models
 * [VirusMap](http://virusmap.renlab.org/en/index.php) - VirusMap: A visualization database for the influenza A virus;
 * [MesKist](http://meskit.renlab.org) - Multi-region exome sequencing analysis tool Kit
-
-## Other profiles 
-* 1. ResearcherID: http://www.researcherid.com/rid/M-4830-2016
-* 2. Github website: https://github.com/likelet
-* 3. ResearchGate: https://www.researchgate.net/profile/Qi_Zhao11
-* 4. ORCID: https://orcid.org/0000-0002-8683-6145
-* 5. Google Scholar: https://scholar.google.com/citations?user=j7LCthMAAAAJ&hl=en
