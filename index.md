@@ -69,7 +69,7 @@ Lei Miao#, Xiao-Li Wei#,  **Qi Zhao**(Co-first) JingJing Qi, Chao Ren, Qi-Nian W
 
 **Qi Zhao**(Co-first) Yan-Xing Chen#, Qi-Nian Wu#, Chao Zhang, Min Liu Ying-Nan Wang, Yan-Fen Feng, Jia-Jia Hu, Jian-Hua Fu, Hong Yang, Jing-Jing Qi, Zi-Xian Wang, Yun-Xin Lu, Hui Sheng, Ze-Xian Liu, Zhi-Xiang Zuo, Jian Zheng, Jing-Ping Yun, Jin-Xin Bei, Wei-Hua Jia, Dong-Xin Lin, Rui-hua Xu, Feng Wang.; Systematic analysis of the transcriptome in small-cell carcinoma of the esophagus reveals its immune microenvironment; ***Clinical & Translational Immunology***; 2020; 10.1002/cti2.1173. ; 2020 Oct 5;9(10):e1173; PMID: 33033616
 
-Yue Yang#, Jieyun Zhang#, Yanxing Chen#, Rui-Hua Xu, **Qi Zhao**(Co-first) Weijian Guo*. ; MUC4, MUC16 and TTN genes mutation correlated with prognosis, and predicted tumor mutation burden and immunotherapy efficacy in gastric cancer and pan-cancer.; ***Clinical and Translational Medicine*** ; 2020; 10.1002/ctm2.155; 2020 Aug; 10(4):e155; PMID: 32898332
+Yue Yang#, Jieyun Zhang#, Yanxing Chen#, Rui-Hua Xu, **Qi Zhao**(**Co-corresponding**) Weijian Guo*. ; MUC4, MUC16 and TTN genes mutation correlated with prognosis, and predicted tumor mutation burden and immunotherapy efficacy in gastric cancer and pan-cancer.; ***Clinical and Translational Medicine*** ; 2020; 10.1002/ctm2.155; 2020 Aug; 10(4):e155; PMID: 32898332
 
 Zekun Liu#,  **Qi Zhao**(Co-first) Zhi-Xiang Zuo#, Shu-Qiang Yuan#, Kai Yu, Qingfeng Zhang, Xiaolong Zhang, Hui Sheng, Huai-Qiang Ju, Han Cheng, Feng Wang, Rui-Hua Xu, Ze-Xian Liu; Systematic analysis of the aberrances and functional implications of ferroptosis in cancer.; ***iScience***; 2020; 10.1016/j.isci.2020.101302; 2020/6/20;101302; PMID: 32629423
 
