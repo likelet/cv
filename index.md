@@ -2,7 +2,7 @@
 layout: cv
 title: Qi Zhao's Profiles
 ---
-# Qi Zhao
+# Qi Zhao (赵齐)
 Cancer Bioinformatists, Associate Professor in Sun Yat-sen University Cancer Center 
 
 <div id="webaddress">
