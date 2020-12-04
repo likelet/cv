@@ -3,7 +3,7 @@ layout: cv
 title: Qi Zhao's Profiles
 ---
 # Qi Zhao
-Cancer Bionformatists, Associate Professor in Sun Yat-sen University Cancer Center 
+Cancer Bioinformatists, Associate Professor in Sun Yat-sen University Cancer Center 
 
 <div id="webaddress">
 <a href="zhaoqi@sysucc.org.cn">zhaoqi@sysucc.org.cn</a>
