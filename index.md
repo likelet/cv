@@ -65,37 +65,37 @@ Zuo, Zhixiang#, Huanjing Hu#, Qingxian Xu, Xiaotong Luo, Di Peng, Kaiyu Zhu, **Q
 
 Teng-Jia Jiang#, Fang Wang#, Ying-Nan Wang#, Jia-Jia Hu, Pei-Rong Ding, Jun-Zhong Lin, Zhi-Zhong Pan, Gong Chen, Jian-Yong Shao, Rui-hua Xu, **Qi Zhao**(**Co-corresponding**), Feng Wang.; Germline mutational profile of Chinese patients under 70 years old with colorectal cancer.; ***Cancer Communications***; 2020; 10.1002/cac2.12093; 2020 Nov;40(11):620-632; PMID: 32914570
 
-Lei Miao#, Xiao-Li Wei#,  **Qi Zhao**(Co-first) JingJing Qi, Chao Ren, Qi-Nian Wu, Da-Liang Wei, Jia Liu, Feng-Hua Wang*, Rui-Hua Xu*; p.P476S mutation of RBPJL inhibits the efficacy of anti-PD-1 therapy in esophageal squamous cell carcinoma by blunting T-cell responses.; ***Clinical & Translational Immunology***; 2020; 10.1002/cti2.1172; 2020 Sep 16;9(9):e1172; PMID: 32994998
+Lei Miao#, Xiao-Li Wei#,  **Qi Zhao**(Co-first), JingJing Qi, Chao Ren, Qi-Nian Wu, Da-Liang Wei, Jia Liu, Feng-Hua Wang*, Rui-Hua Xu*; p.P476S mutation of RBPJL inhibits the efficacy of anti-PD-1 therapy in esophageal squamous cell carcinoma by blunting T-cell responses.; ***Clinical & Translational Immunology***; 2020; 10.1002/cti2.1172; 2020 Sep 16;9(9):e1172; PMID: 32994998
 
-**Qi Zhao**(Co-first) Yan-Xing Chen#, Qi-Nian Wu#, Chao Zhang, Min Liu Ying-Nan Wang, Yan-Fen Feng, Jia-Jia Hu, Jian-Hua Fu, Hong Yang, Jing-Jing Qi, Zi-Xian Wang, Yun-Xin Lu, Hui Sheng, Ze-Xian Liu, Zhi-Xiang Zuo, Jian Zheng, Jing-Ping Yun, Jin-Xin Bei, Wei-Hua Jia, Dong-Xin Lin, Rui-hua Xu, Feng Wang.; Systematic analysis of the transcriptome in small-cell carcinoma of the esophagus reveals its immune microenvironment; ***Clinical & Translational Immunology***; 2020; 10.1002/cti2.1173. ; 2020 Oct 5;9(10):e1173; PMID: 33033616
+**Qi Zhao**(Co-first), Yan-Xing Chen#, Qi-Nian Wu#, Chao Zhang, Min Liu Ying-Nan Wang, Yan-Fen Feng, Jia-Jia Hu, Jian-Hua Fu, Hong Yang, Jing-Jing Qi, Zi-Xian Wang, Yun-Xin Lu, Hui Sheng, Ze-Xian Liu, Zhi-Xiang Zuo, Jian Zheng, Jing-Ping Yun, Jin-Xin Bei, Wei-Hua Jia, Dong-Xin Lin, Rui-hua Xu, Feng Wang.; Systematic analysis of the transcriptome in small-cell carcinoma of the esophagus reveals its immune microenvironment; ***Clinical & Translational Immunology***; 2020; 10.1002/cti2.1173. ; 2020 Oct 5;9(10):e1173; PMID: 33033616
 
-Yue Yang#, Jieyun Zhang#, Yanxing Chen#, Rui-Hua Xu, **Qi Zhao**(**Co-corresponding**) Weijian Guo*. ; MUC4, MUC16 and TTN genes mutation correlated with prognosis, and predicted tumor mutation burden and immunotherapy efficacy in gastric cancer and pan-cancer.; ***Clinical and Translational Medicine*** ; 2020; 10.1002/ctm2.155; 2020 Aug; 10(4):e155; PMID: 32898332
+Yue Yang#, Jieyun Zhang#, Yanxing Chen#, Rui-Hua Xu, **Qi Zhao**(**Co-corresponding**) Weijian Guo. ; MUC4, MUC16 and TTN genes mutation correlated with prognosis, and predicted tumor mutation burden and immunotherapy efficacy in gastric cancer and pan-cancer.; ***Clinical and Translational Medicine*** ; 2020; 10.1002/ctm2.155; 2020 Aug; 10(4):e155; PMID: 32898332
 
-Zekun Liu#,  **Qi Zhao**(Co-first) Zhi-Xiang Zuo#, Shu-Qiang Yuan#, Kai Yu, Qingfeng Zhang, Xiaolong Zhang, Hui Sheng, Huai-Qiang Ju, Han Cheng, Feng Wang, Rui-Hua Xu, Ze-Xian Liu; Systematic analysis of the aberrances and functional implications of ferroptosis in cancer.; ***iScience***; 2020; 10.1016/j.isci.2020.101302; 2020/6/20;101302; PMID: 32629423
+Zekun Liu#,  **Qi Zhao**(Co-first), Zhi-Xiang Zuo#, Shu-Qiang Yuan#, Kai Yu, Qingfeng Zhang, Xiaolong Zhang, Hui Sheng, Huai-Qiang Ju, Han Cheng, Feng Wang, Rui-Hua Xu, Ze-Xian Liu; Systematic analysis of the aberrances and functional implications of ferroptosis in cancer.; ***iScience***; 2020; 10.1016/j.isci.2020.101302; 2020/6/20;101302; PMID: 32629423
 
-Huiyan Luo#,  **Qi Zhao**(Co-first) Wei Wei#, Lianghong Zheng#, Shaohua Yi#, Gen Li, Wenqiu Wang, Hui Sheng, Hengying Pu, Haiyu Mo, Zhixiang Zuo, Zexian Liu, Chaofeng Li, Chuanbo Xie, Zhaolei Zeng, Weimin Li, Xiaoke Hao, Yuying Liu, Sumei Cao, Wanli Liu, Sarah Gibson, Kang Zhang, Guoliang Xu, Rui-hua Xu*; Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer; ***Science Translational Medicine***; 2020; 10.1126/scitranslmed.aax7533; 2020 Jan 1;12(524):eaax7533; PMID: 31894106
+Huiyan Luo#,  **Qi Zhao**(Co-first), Wei Wei#, Lianghong Zheng#, Shaohua Yi#, Gen Li, Wenqiu Wang, Hui Sheng, Hengying Pu, Haiyu Mo, Zhixiang Zuo, Zexian Liu, Chaofeng Li, Chuanbo Xie, Zhaolei Zeng, Weimin Li, Xiaoke Hao, Yuying Liu, Sumei Cao, Wanli Liu, Sarah Gibson, Kang Zhang, Guoliang Xu, Rui-hua Xu; Circulating tumor DNA methylation profiles enable early diagnosis, prognosis prediction, and screening for colorectal cancer; ***Science Translational Medicine***; 2020; 10.1126/scitranslmed.aax7533; 2020 Jan 1;12(524):eaax7533; PMID: 31894106
 
-Miao Lei#, Jingjing Qi#,  **Qi Zhao**(Co-first) Qi-Nian Wu, Da-Liang Wei, Xiao-Li Wei, Jia Liu, Jun Chen, Zhaolei Zeng, Huaiqiang Ju, Huiyan Luo, Rui-hua Xu; Targeting the STING pathway in tumor-associated macrophages regulates innate immune sensing of gastric cancer cells; ***Theranostics***; 2020; 10.7150/thno.37745; 2020 Jan 1;10(2):498-515; PMID: 31903134
+Miao Lei#, Jingjing Qi#,  **Qi Zhao**(Co-first), Qi-Nian Wu, Da-Liang Wei, Xiao-Li Wei, Jia Liu, Jun Chen, Zhaolei Zeng, Huaiqiang Ju, Huiyan Luo, Rui-hua Xu; Targeting the STING pathway in tumor-associated macrophages regulates innate immune sensing of gastric cancer cells; ***Theranostics***; 2020; 10.7150/thno.37745; 2020 Jan 1;10(2):498-515; PMID: 31903134
 
 __2019__
 
-Hao-Xiang Wu# , Zi-Xian Wang# ,  **Qi Zhao** , Dong-Liang Chen , Ming-Ming He , Lu-Ping Yang , Ying-Nan Wang , Ying Jin , Chao Ren , Hui-Yan Luo , Zhi-Qiang Wang , Feng Wang ; Tumor mutational and indel burden: a systematic pan-cancer evaluation as prognostic biomarkers; ***Annals of Translational Medicine***; 2019;  10.21037/atm.2019.10.116; 2019 Nov;7(22):640; PMID: 31930041
+Hao-Xiang Wu# , Zi-Xian Wang# ,  **Qi Zhao**(Co-first), Dong-Liang Chen , Ming-Ming He , Lu-Ping Yang , Ying-Nan Wang , Ying Jin , Chao Ren , Hui-Yan Luo , Zhi-Qiang Wang , Feng Wang ; Tumor mutational and indel burden: a systematic pan-cancer evaluation as prognostic biomarkers; ***Annals of Translational Medicine***; 2019;  10.21037/atm.2019.10.116; 2019 Nov;7(22):640; PMID: 31930041
 
-**Qi Zhao**(Co-first) Yu Sun#, Zekun Liu#, Hongwan Zhang, Xingyang Li, Kaiyu Zhu, Ze-Xian Liu*, Jian Ren*, Zhixiang Zuo*.; CrossICC: Iterative consensus clustering of cross-platform gene expression data without adjusting batch effect.; ***Briefings in Bioinformatics***; 2019; 10.1093/bib/bbz116; 2020 Sep 25;21(5):1818-1824; PMID: 32978617
+**Qi Zhao**(Co-first), Yu Sun#, Zekun Liu#, Hongwan Zhang, Xingyang Li, Kaiyu Zhu, Ze-Xian Liu*, Jian Ren*, Zhixiang Zuo*.; CrossICC: Iterative consensus clustering of cross-platform gene expression data without adjusting batch effect.; ***Briefings in Bioinformatics***; 2019; 10.1093/bib/bbz116; 2020 Sep 25;21(5):1818-1824; PMID: 32978617
 
-Zekun Liu#, Kai Yu#, Jian Zheng#, Huan Lin#,  **Qi Zhao**(Co-first) Xiaolong Zhang, Weiyi Feng, Liyu Wang, Jianjun Xu, Dawei Xie, Zhi‐Xiang Zuo, Ze‐Xian Liu, Qichang Zheng; Dysregulation, functional implications, and prognostic ability of the circadian clock across cancers; ***Cancer Medicine***; 2019; 10.1002/cam4.2035; 02/2019;8(314-28); PMID: 30791227
+Zekun Liu#, Kai Yu#, Jian Zheng#, Huan Lin#,  **Qi Zhao**(Co-first), Xiaolong Zhang, Weiyi Feng, Liyu Wang, Jianjun Xu, Dawei Xie, Zhi‐Xiang Zuo, Ze‐Xian Liu, Qichang Zheng; Dysregulation, functional implications, and prognostic ability of the circadian clock across cancers; ***Cancer Medicine***; 2019; 10.1002/cam4.2035; 02/2019;8(314-28); PMID: 30791227
 
-Huai-Qiang Ju, **Qi Zhao**(Co-first) Feng Wang, Ping Lan, Zi-Xian Wang, Zhixiang Zuo, Qi-Nian Wu, Xin-Juan Fan, Hai-Yu Mo, Li Chen, Ting Li, Chao Ren, Xiang-Bo Wan, Gong Chen, Yu-Hong Li, Wei-Hua Jia, Rui-Hua Xu; A circRNA signature predicts postoperative recurrence in stage II/III colon cancer; ***EMBO Molecular Medicine***; 2019; 10.15252/emmm.201810168; 2019 Oct;11(10):e10168; PMID: 31475771
+Huai-Qiang Ju, **Qi Zhao**(Co-first), Feng Wang, Ping Lan, Zi-Xian Wang, Zhixiang Zuo, Qi-Nian Wu, Xin-Juan Fan, Hai-Yu Mo, Li Chen, Ting Li, Chao Ren, Xiang-Bo Wan, Gong Chen, Yu-Hong Li, Wei-Hua Jia, Rui-Hua Xu; A circRNA signature predicts postoperative recurrence in stage II/III colon cancer; ***EMBO Molecular Medicine***; 2019; 10.15252/emmm.201810168; 2019 Oct;11(10):e10168; PMID: 31475771
 
-Feng Wang, **Qi Zhao**(Co-first) Ying-Nan Wang, Ying Jin, Ming-Ming He, Zexian Liu, Rui-Hua Xu; Evaluation of POLE and POLD1 Mutations as Biomarkers for Immunotherapy Outcomes Across Multiple Cancer Types; ***JAMA oncology***; 2019; 10.1001/jamaoncol.2019.2963; 2019 Aug 15;5(10):1504–6; PMID: 31415061
+Feng Wang, **Qi Zhao**(Co-first), Ying-Nan Wang, Ying Jin, Ming-Ming He, Zexian Liu, Rui-Hua Xu; Evaluation of POLE and POLD1 Mutations as Biomarkers for Immunotherapy Outcomes Across Multiple Cancer Types; ***JAMA oncology***; 2019; 10.1001/jamaoncol.2019.2963; 2019 Aug 15;5(10):1504–6; PMID: 31415061
 
 __2018__
 
-Feng Wang, Dong-Bing Liu,  **Qi Zhao**(Co-first) Gang Chen, Xin-Ming Liu, Ying-Nan Wang, Hong Su, Yan-Ru Qin, Yi-Fu He, Qing-Feng Zou, Yan-Hui Liu, You-En Lin, Ze-Xian Liu, Jin-Xin Bei, Rui-Hua Xu; The genomic landscape of small cell carcinoma of the esophagus; ***Cell Research***; 2018; 10.1038/s41422-018-0039-1; 05/2018;28(7); PMID: 29728688
+Feng Wang, Dong-Bing Liu,  **Qi Zhao**(Co-first), Gang Chen, Xin-Ming Liu, Ying-Nan Wang, Hong Su, Yan-Ru Qin, Yi-Fu He, Qing-Feng Zou, Yan-Hui Liu, You-En Lin, Ze-Xian Liu, Jin-Xin Bei, Rui-Hua Xu; The genomic landscape of small cell carcinoma of the esophagus; ***Cell Research***; 2018; 10.1038/s41422-018-0039-1; 05/2018;28(7); PMID: 29728688
 
 **Qi Zhao**, Yu Sun, Dawei Wang, Hongwan Zhang, Kai Yu, Jian Zheng, Zhixiang Zuo; LncPipe: A Nextflow-based pipeline for identification and analysis of long non-coding RNAs from RNA-Seq data; ***Journal of Genetics and Genomics***; 2018; 10.1016/j.jgg.2018.06.005; 07/2018;45(7); PMID: 30055874
 
-Kai Yu#, Qingfeng Zhang#, Zekun Liu#,  **Qi Zhao**(Co-first) Xiaolong Zhang, Yan Wang, Zi-Xian Wang, Ying Jin, Xiaoxing Li, Ze-Xian Liu, Rui-Hua Xu; qPhos: a database of protein phosphorylation dynamics in humans; ***Nucleic Acids Research***; 2018; 10.1093/nar/gky1052; 10/2018;47(Databaseissue); PMID: 30380102
+Kai Yu#, Qingfeng Zhang#, Zekun Liu#,  **Qi Zhao**(Co-first), Xiaolong Zhang, Yan Wang, Zi-Xian Wang, Ying Jin, Xiaoxing Li, Ze-Xian Liu, Rui-Hua Xu; qPhos: a database of protein phosphorylation dynamics in humans; ***Nucleic Acids Research***; 2018; 10.1093/nar/gky1052; 10/2018;47(Databaseissue); PMID: 30380102
 
 __2017__
 
@@ -109,7 +109,7 @@ __2014__
 
 __2020__    
 
-Qingfeng Zhang, Kai Yu, Shihua Li, Xiaolong Zhang, **Qi Zhao**(Co-first) Xia Zhao, Zekun Liu, Han Cheng, Ze-Xian Liu, Xiaoxing Li; gutMEGA: a database of the human gut MEtaGenome Atlas; ***Briefings in Bioinformatics***; 2020; 10.1093/bib/bbaa082; 2020 Jun 4;bbaa082; PMID: 32496513
+Qingfeng Zhang, Kai Yu, Shihua Li, Xiaolong Zhang, **Qi Zhao**(Co-first), Xia Zhao, Zekun Liu, Han Cheng, Ze-Xian Liu, Xiaoxing Li; gutMEGA: a database of the human gut MEtaGenome Atlas; ***Briefings in Bioinformatics***; 2020; 10.1093/bib/bbaa082; 2020 Jun 4;bbaa082; PMID: 32496513
 
 Yun Wang , Jia-Huan Lu , Feng Wang , Ying-Nan Wang , Ming-Ming He , Qi-Nian Wu , Yun-Xin Lu , Hong-En Yu , Zhan-Hong Chen ,  **Qi Zhao**, Jia Liu , Yan-Xing Chen , De-Shen Wang , Hui Sheng , Ze-Xian Liu , Zhao-Lei Zeng , Rui-Hua Xu , Huai-Qiang Ju ; Inhibition of Fatty Acid Catabolism Augments the Efficacy of Oxaliplatin-based Chemotherapy in Gastrointestinal Cancers; ***Cancer Letters***; 2020; 10.1016/j.canlet.2019.12.036; 2020 Mar 31;473:74-89; PMID: 31904482
 
