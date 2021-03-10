@@ -55,9 +55,11 @@ __Sun Yat-sen Univerisity, Cancer Center, Guangzhou, Guangdong__
 
 ## Publications
 
-### First or conresponding author
+### First or corresponding author
 
 __2020__    
+
+Luo, Xiao-Jing, **Qi Zhao**(Co-first), Jia Liu, Jia-Bo Zheng, Miao-Zhen Qiu, Huai-Qiang Ju, and Rui-Hua Xu. "Novel Genetic and Epigenetic Biomarkers of Prognostic and Predictive Significance in Stage II/III Colorectal Cancer." ***Molecular Therapy*** (2020).
 
 Xie, Yubin, Xiaotong Luo, Huiqin Li, Qingxian Xu, Zhihao He, **Qi Zhao**(**Co-corresponding**), Zhixiang Zuo, and Jian Ren; autoRPA: A web server for constructing cancer staging models by recursive partitioning analysis; ***Computational and Structural Biotechnology Journal*** ; 2020; 10.1016/j.csbj.2020.10.038; ; PMID: NA   
 
