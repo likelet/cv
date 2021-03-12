@@ -8,7 +8,7 @@ Cancer Bioinformatists, Associate Professor in Sun Yat-sen University Cancer Cen
 <div id="webaddress">
 <a href="zhaoqi@sysucc.org.cn">zhaoqi@sysucc.org.cn</a>
 | <a href="https://www.researchgate.net/profile/Qi_Zhao11">ResearchGate</a>
-| <a href="https://www.researchgate.net/profile/Qi_Zhao11">Github</a>
+| <a href="https://likelet.github.com">Github</a>
 | <a href="https://orcid.org/0000-0002-8683-6145">ORCID</a>
 | <a href="https://scholar.google.com/citations?user=j7LCthMAAAAJ&hl=en">Google Scholar</a>
 </div>
