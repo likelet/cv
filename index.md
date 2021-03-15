@@ -4,7 +4,7 @@ title: Qi Zhao's Profiles
 ---
 # Qi Zhao (赵齐)
 Cancer Bioinformatists, Associate Professor in Sun Yat-sen University Cancer Center 
-
+<img src="https://i.ibb.co/hmPsQNT/image.png" alt="image" border="0">
 <div id="webaddress">
 <a href="zhaoqi@sysucc.org.cn">zhaoqi@sysucc.org.cn</a>
 | <a href="https://www.researchgate.net/profile/Qi_Zhao11">ResearchGate</a>
