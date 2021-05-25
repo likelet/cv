@@ -17,7 +17,7 @@ Cancer Bioinformatists, Associate Professor in Sun Yat-sen University Cancer Cen
 
 ## Currently
 
- **Qi Zhao** is currently an associate professor of cancer genomics in Sun Yat-sen University Cancer Center (SYSUCC). He gained his Ph.D of Bioinformatics at Sun Yat-sen university in 2016.  Then he finished a 3-year Postdoc training in Oncology at Sun Yat-sen Cancer Center. During the period of postdoc training, Dr Zhao was one of the core members in bioinformatics center of the department and mainly charged with development and deployment of NGS pipeline in high performance computing clusters.  He joined Sun Yat-sen University Cancer Center as an Associate Professor in November 2019. His main research interest are cancer bioinformatics and biomarker discovery from multi-omic cancer dataset. He has published more than 50 peer-reviewed papers, including some papers in high impact journals such as JAMA oncology, Cell research, Science Transl Med, EMBO Mol Med. Nucleic Acid Res and Briefings in Bioinformatics.
+  **Qi Zhao** is currently an associate professor of cancer genomics in Sun Yat-sen University Cancer Center (SYSUCC). He gained his Ph.D of Bioinformatics at Sun Yat-sen university in 2016.  Then he finished a 3-year Postdoc training in Oncology at Sun Yat-sen Cancer Center. During the period of postdoc training, Dr Zhao was one of the core members in bioinformatics center of the department and mainly charged with development and deployment of NGS pipeline in high performance computing clusters.  He joined Sun Yat-sen University Cancer Center as an Associate Professor in November 2019. His main research interest are cancer bioinformatics and biomarker discovery from multi-omic cancer dataset. He has published more than 50 peer-reviewed papers, including some papers in high impact journals such as JAMA oncology, Cell research, Science Transl Med, EMBO Mol Med. Nucleic Acid Res and Briefings in Bioinformatics.
 
 ### Specialized in
 
@@ -56,6 +56,17 @@ __Sun Yat-sen Univerisity, Cancer Center, Guangzhou, Guangdong__
 ## Publications
 
 ### First or corresponding author
+
+__2021__   
+
+Mengni Liu, Jianyu Chen, Xin Wang, Chengwei Wang, Xiaolong Zhang, Yubin Xie, Zhixiang Zuo, Jian Ren, **Qi Zhao**(**Corresponding**). MesKit: a tool kit for dissecting cancer evolution of multi-region tumor biopsies through somatic alterations. ***Gigascience***. 2021 May 21;10(5):giab036. doi: 10.1093/gigascience/giab036. PMID: 34018555. 
+
+Hongyu Li, **Qi Zhao**(Co-first), Yihua Zhang, Ke Sai, Lunshan Xu, Yonggao Mou, Yubin Xie, Jian Ren, Xiaobing Jiang. Image-driven classification of functioning and nonfunctioning pituitary adenoma by deep convolutional neural networks. ***Computational and Structural Biotechnology Journal*** ; 2020; doi.org/10.1016/j.csbj.2021.05.023
+
+Qi-Nian Wu#, Xiao-Jing Luo#, Jia Liu#, Yun-Xin Lu, Yun Wang, Jingjing Qi, Ze-Xian Liu, Qi-Tao Huang, Ze-Kun Liu, Jia-Bin Lu, Ying Jin, Heng-Ying Pu, Pei-Shan Hu, Jia-Bo Zheng, Zhao-Lei Zeng, Huai-Qiang Ju, Dan Xie, **Qi Zhao**(**Co-corresponding**), Ruihua Xu.MYC-Activated LncRNA MNX1-AS1 Promotes the Progression of Colorectal Cancer by Stabilizing YB1. ***Cancer Research***. 2021 May 15;81(10):2636-2650. doi: 10.1158/0008-5472.CAN-20-3747. Epub 2021 Mar 29. PMID: 33782099.
+
+
+
 
 __2020__    
 
